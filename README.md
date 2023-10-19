@@ -10,7 +10,7 @@ You'll want to upload all the files to your website. Personally we recommend usi
 # How It Works
 The website works by changing parameters in the URL to what you'd like. For example, if our URL was http://127.0.0.1/?keyword=modern%20warfare%203&videoThumbnail=https://i3.ytimg.com/vi/7YCr1Eh_jyc/maxresdefault.jpg&channel=John%20Doe
 
-We could change the values for *keyword*, *searchText*, *videoThumbnail*, and *channel*.
+We could change the values for *keyword*, *videoThumbnail*, and *channel*.
 
 *videoThumbnail* does need to be a valid URL/image.
 
